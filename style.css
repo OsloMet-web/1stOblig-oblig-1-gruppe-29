@@ -38,3 +38,8 @@ li:last-child {
 .active {
     background-color: antiquewhite;
 }
+
+.ysabel img {
+    width: 40%;
+    height: 50%;
+}
