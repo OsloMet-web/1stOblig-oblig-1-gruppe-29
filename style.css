@@ -32,7 +32,7 @@ li:last-child {
 }
 
 .navigation li a:hover {
-    background-color: #234660;
+    background-color: purple;
 }
 
 .active {
