@@ -1,24 +1,6 @@
 
 body {
     background-color: lightpink;
-<<<<<<< HEAD
-}
-<<<<<<< HEAD
-body {
-    background-color: cadetblue;
-
-    background-color:cornflowerblue;
-    background-color: rgb(225, 222, 225);
-}
-
-body {
-=======
-
-.body {
->>>>>>> b318c83fd7a3d63d63333931d48ddee9c376bb94
-    background-color: cadetblue;
-=======
->>>>>>> 00e2154fd15eeefa3134a420722b251b3da6c573
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -30,16 +12,7 @@ body {
     overflow: hidden;
     background-color: rgb(249, 205, 212);
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-}
-=======
->>>>>>> dba8b4301c3b948d12d24330ccce2b79b1c860d2
-=======
->>>>>>> 00e2154fd15eeefa3134a420722b251b3da6c573
 
->>>>>>> b318c83fd7a3d63d63333931d48ddee9c376bb94
 .navigation li {
     display: inline;
     float: left;
