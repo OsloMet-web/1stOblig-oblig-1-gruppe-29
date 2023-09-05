@@ -48,6 +48,9 @@ li:last-child {
     height: 50%;
 }
 
+div
+
 .natalia div{
     text-align: center;
+    display: inline-block;
 }
