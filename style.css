@@ -4,6 +4,7 @@ body{
     margin-right: 50px;
 }
 
+<<<<<<< HEAD
 .navigation ul {
     list-style-type: none;
     margin: 0;
@@ -26,3 +27,5 @@ body{
 .navigation li a:hover {
     background-color: blanchedalmond;
 }
+=======
+>>>>>>> refs/remotes/origin/main
