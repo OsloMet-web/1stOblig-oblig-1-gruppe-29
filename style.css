@@ -9,7 +9,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(99, 97, 97);
+    background-color: #33658A;
 }
 
 .navigation li {
@@ -31,7 +31,7 @@ li:last-child {
 }
 
 .navigation li a:hover {
-    background-color: rgb(34, 33, 31);
+    background-color: #234660;
 }
 
 .active {
