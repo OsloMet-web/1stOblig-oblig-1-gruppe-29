@@ -39,17 +39,11 @@ li:last-child {
     background-color: antiquewhite;
 }
 
-.ysabel img {
-    width: 40%;
-    height: 50%;
-}
-.gabija img{
-    width: 40%;
-    height: 50%;
-}
-
-div
-
-.natalia{
+.avsnitt{
     width: 800px;
+}
+
+img{
+    width: 40%;
+    height: 50%;
 }
