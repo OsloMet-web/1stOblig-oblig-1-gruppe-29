@@ -10,16 +10,20 @@ body{
     padding: 0;
     overflow: hidden;
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: #33658A;
 =======
     background-color: pink;
 >>>>>>> ced3413 (Byttet style)
+=======
+    background-color: rgb(34, 36, 36);
+>>>>>>> 9ed66e7 (Test)
 }
 
 .navigation li {
     display: inline;
     float: left;
-    border-right: 1px solid black;
+    border-right: 1px solid rgb(45, 44, 41);
 }
 
 li:last-child {
