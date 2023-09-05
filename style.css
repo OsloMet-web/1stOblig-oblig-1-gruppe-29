@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 body{
+<<<<<<< HEAD
     background-color: lightpink;
 }
 main{
@@ -13,6 +14,14 @@ body {
     background-color: cadetblue;
 >>>>>>> fc38a87 (GFH)
 >>>>>>> de0d5740ae496c57a804453be16f6d2f629659de
+=======
+    background-color:cornflowerblue;
+    background-color: rgb(225, 222, 225);
+}
+main{
+body {
+    background-color: cadetblue;
+>>>>>>> d54b66b5a7c046ebeff5f530a3592ada9ecaf5c7
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -21,18 +30,20 @@ navigation ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-<<<<<<< HEAD
-<<<<<<< HEAD
     background-color: #33658A;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+>>>>>>> d54b66b5a7c046ebeff5f530a3592ada9ecaf5c7
     background-color: pink;
->>>>>>> ced3413 (Byttet style)
-=======
     background-color: rgb(34, 36, 36);
+<<<<<<< HEAD
 >>>>>>> 9ed66e7 (Test)
 >>>>>>> de0d5740ae496c57a804453be16f6d2f629659de
+=======
+>>>>>>> d54b66b5a7c046ebeff5f530a3592ada9ecaf5c7
 }
 
 .navigation li {
