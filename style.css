@@ -1,19 +1,11 @@
-<<<<<<< HEAD
+
 body{
-<<<<<<< HEAD
     background-color:cornflowerblue;
-=======
     background-color: rgb(225, 222, 225);
-<<<<<<< HEAD
 }
 main{
->>>>>>> 00c6d097fef4bd9ff065cfe4f7bb0e762f29eb72
-=======
->>>>>>> 1279a7eb0dd80d26769577cb6653c5e91b2dc1ed
-=======
 body {
     background-color: cadetblue;
->>>>>>> fc38a87 (GFH)
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -24,15 +16,9 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-<<<<<<< HEAD
-<<<<<<< HEAD
     background-color: #33658A;
-=======
     background-color: pink;
->>>>>>> ced3413 (Byttet style)
-=======
     background-color: rgb(34, 36, 36);
->>>>>>> 9ed66e7 (Test)
 }
 
 .navigation li {
