@@ -9,13 +9,17 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
+<<<<<<< HEAD
     background-color: #33658A;
+=======
+    background-color: pink;
+>>>>>>> ced3413 (Byttet style)
 }
 
 .navigation li {
     display: inline;
     float: left;
-    border-right: 1px solid rgb(45, 44, 41);
+    border-right: 1px solid black;
 }
 
 li:last-child {
@@ -24,7 +28,7 @@ li:last-child {
 
 .navigation li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
