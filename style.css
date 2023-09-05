@@ -3,3 +3,26 @@ body{
     margin-left: 50px;
     margin-right: 50px;
 }
+
+.navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: antiquewhite;
+}
+
+.navigation li {
+    display: inline;
+    float: left;
+}
+
+.navigation a {
+    display: block;
+    padding: 8px;
+    background-color: pink;
+}
+
+.navigation li a:hover {
+    background-color: blanchedalmond;
+}
