@@ -1,7 +1,7 @@
 
-body{
-
+body {
     background-color: lightpink;
+<<<<<<< HEAD
 }
 <<<<<<< HEAD
 body {
@@ -17,24 +17,27 @@ body {
 .body {
 >>>>>>> b318c83fd7a3d63d63333931d48ddee9c376bb94
     background-color: cadetblue;
+=======
+>>>>>>> 00e2154fd15eeefa3134a420722b251b3da6c573
     margin-left: 50px;
     margin-right: 50px;
 }
+
 .navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #33658A;
     background-color: pink;
-    background-color: rgb(34, 36, 36);
-<<<<<<< HEAD
 }
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 }
 =======
 >>>>>>> dba8b4301c3b948d12d24330ccce2b79b1c860d2
+=======
+>>>>>>> 00e2154fd15eeefa3134a420722b251b3da6c573
 
 >>>>>>> b318c83fd7a3d63d63333931d48ddee9c376bb94
 .navigation li {
