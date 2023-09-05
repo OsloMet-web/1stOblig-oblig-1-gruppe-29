@@ -1,5 +1,14 @@
 body{
+<<<<<<< HEAD
+    background-color:cornflowerblue;
+=======
     background-color: rgb(225, 222, 225);
+<<<<<<< HEAD
+}
+main{
+>>>>>>> 00c6d097fef4bd9ff065cfe4f7bb0e762f29eb72
+=======
+>>>>>>> 1279a7eb0dd80d26769577cb6653c5e91b2dc1ed
     margin-left: 50px;
     margin-right: 50px;
 }
