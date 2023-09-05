@@ -4,7 +4,6 @@ body{
     margin-right: 50px;
 }
 
-<<<<<<< HEAD
 .navigation ul {
     list-style-type: none;
     margin: 0;
@@ -16,16 +15,25 @@ body{
 .navigation li {
     display: inline;
     float: left;
+    border-right: 1px solid wheat;
 }
 
-.navigation a {
+li:last-child {
+    border-right: none;
+}
+
+.navigation li a {
     display: block;
-    padding: 8px;
-    background-color: pink;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 .navigation li a:hover {
     background-color: blanchedalmond;
 }
-=======
->>>>>>> refs/remotes/origin/main
+
+.active {
+    background-color: antiquewhite;
+}
