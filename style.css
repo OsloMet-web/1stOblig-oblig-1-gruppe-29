@@ -3,9 +3,6 @@ body{
 
     background-color: lightpink;
 }
-main{
-
-}
 body {
     background-color: cadetblue;
 
@@ -26,7 +23,7 @@ navigation ul {
     background-color: #33658A;
     background-color: pink;
     background-color: rgb(34, 36, 36);
-
+}
 .navigation li {
     display: inline;
     float: left;
