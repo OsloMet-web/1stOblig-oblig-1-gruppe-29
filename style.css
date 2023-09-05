@@ -1,5 +1,5 @@
 body{
-    background-color: cadetblue;
+    background-color: rgb(229, 227, 200);
     margin-left: 50px;
     margin-right: 50px;
 }
@@ -9,13 +9,13 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: antiquewhite;
+    background-color: rgb(34, 36, 36);
 }
 
 .navigation li {
     display: inline;
     float: left;
-    border-right: 1px solid wheat;
+    border-right: 1px solid rgb(45, 44, 41);
 }
 
 li:last-child {
@@ -31,7 +31,7 @@ li:last-child {
 }
 
 .navigation li a:hover {
-    background-color: blanchedalmond;
+    background-color: rgb(34, 33, 31);
 }
 
 .active {
